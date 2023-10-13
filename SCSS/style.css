@@ -1,0 +1,43 @@
+.tanjiro-div {
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  position: absolute;
+  right: 15%;
+  top: 5rem;
+}
+.tanjiro-div .tanjiro {
+  height: 80vh;
+  width: 100%;
+}
+
+.parchemin-div {
+  position: absolute;
+  top: 5rem;
+}
+.parchemin-div .parchemin {
+  height: 80vh;
+  width: 50vw;
+}
+
+.zeni-div {
+  background-color: rgba(128, 128, 128, 0.7);
+  border-radius: 10px;
+  width: 50vw;
+  height: 10vh;
+  position: relative;
+}
+.zeni-div .zeni {
+  width: 3vw;
+  position: absolute;
+  top: 15%;
+  left: 1%;
+}
+
+body {
+  background-image: url("../img/DSbg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}/*# sourceMappingURL=style.css.map */

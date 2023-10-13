@@ -1,0 +1,13 @@
+.zeni-div {
+    background-color: rgb(128, 128, 128, 0.7);
+    border-radius: 10px;
+    width: 50vw;
+    height: 10vh;
+    position: relative;
+    .zeni {
+        width: 3vw;
+        position: absolute;
+        top: 15%;
+        left: 1%;
+    }
+}
